@@ -1,6 +1,6 @@
 ---
 title: Your awesome title
-timezone: UTC
+timezone: Pacific/Auckland
 collections:
   posts:
     title: Posts
@@ -9,12 +9,9 @@ collections:
     title: Uploads
     output: true
 email: gregelisara@protonmail.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
-baseurl: ''
+description: This site is helping me learn how to create static websites using Jekyll
+  and Siteleaf.
+baseurl: 
 url: http://yourdomain.com
 twitter_username: gregelisara
 github_username: quipu
